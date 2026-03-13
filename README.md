@@ -194,7 +194,7 @@ Stworzono interaktywną aplikację do weryfikacji hipotez oraz testowania modelu
 
 ## Autorzy
 
-Maja Djan Darczuk, Jan Walkiewicz
+Maja Darczuk, Jan Walkiewicz
 
 ---
 
